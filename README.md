@@ -19,3 +19,6 @@ Installation
 To use the code in this repository, follow these steps:
 
 Clone the repository:
+git clone https://github.com/yourusername/DSA-Repository.git
+cd DSA-Repository
+
