@@ -13,3 +13,9 @@ data_structures/: Contains implementations of various data structures.
 algorithms/: Contains implementations of various algorithms categorized by their type.
 
 problems/: Contains solved problems categorized by their difficulty level (easy, medium, hard).
+
+
+Installation
+To use the code in this repository, follow these steps:
+
+Clone the repository:
