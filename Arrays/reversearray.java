@@ -17,3 +17,4 @@ public class reversearray {
         System.out.println(Arrays.toString(arr));  // Use Arrays.toString to print the array
     }
 }
+
