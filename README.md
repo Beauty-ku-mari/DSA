@@ -1,6 +1,6 @@
 
 
-Data Structures and Algorithms (DSA) Repository
+<h3>Data Structures and Algorithms (DSA) Repository</h3>
 
 
          Welcome to the Data Structures and Algorithms (DSA) repository! This repository contains a collection of implementations of various data structures and algorithms in different programming languages.
@@ -15,7 +15,7 @@ Data Structures and Algorithms (DSA) Repository
          problems/: Contains solved problems categorized by their difficulty level (easy, medium, hard).
 
 
-Installation
+<h3>Installation</h3>
 
 
     To use the code in this repository, follow these steps:
